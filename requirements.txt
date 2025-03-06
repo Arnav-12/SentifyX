@@ -1,0 +1,13 @@
+ntscraper
+torch
+transformers
+gensim
+tensorflow
+scikit-learn
+numpy
+pandas
+flask
+gdown
+ensure
+python-box
+-e .
